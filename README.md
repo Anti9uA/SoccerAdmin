@@ -8,7 +8,7 @@
 #### 3. csv파일 기반 양팀 간 승률 분석 (로지스틱 회귀 분석)   
    
    
-## 메인 화면     
+## 시작 화면     
 <img width="512" alt="frontdoor" src="https://user-images.githubusercontent.com/52993882/119121074-f6350600-ba67-11eb-8358-021e5ea57efd.png">   
    
    
